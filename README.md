@@ -5,8 +5,8 @@ Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.
 
 <p>here is the place when i pass most part of my time, bring my inspirations and competencies in my codes.</p>
 </br>
-### I currently work with lenguages and programming tools such as:
 
+### I currently work with lenguages and programming tools such as:
 </br>
 
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20"  alt="html-5" src="https://github.com/user-attachments/assets/bf1e0f23-4ed4-41ba-a1fa-afe020e7914a" 
