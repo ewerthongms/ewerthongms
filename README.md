@@ -25,7 +25,6 @@ style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
 
 
 ### My social medias, connect with my:
-</br>
 
 <a href="https://www.instagram.com/ewerthon__gomes/" rel="nofollow">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/09cf85d950674fd4a93560addd0992b6463f3d67678f2201b295c57ab56389d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
