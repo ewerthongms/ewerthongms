@@ -8,11 +8,7 @@ Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.
 </br>
 
 
-</br>
-
-
-### I currently work with lenguages and programming tools such as:  <img width="15" height="300" alt="internet" src="https://github.com/user-attachments/assets/c37d0e1f-96af-4e88-b9b6-82cd843ac02c" />
-
+### I currently work with lenguages and programming tools such as:  
 
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20"  alt="html-5" src="https://github.com/user-attachments/assets/bf1e0f23-4ed4-41ba-a1fa-afe020e7914a" 
 style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
@@ -26,7 +22,8 @@ style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
 </br>
 
 
-### My social medias, connect with my:
+### My social medias, connect with my:  <img width="15" height="300" alt="internet" src="https://github.com/user-attachments/assets/c37d0e1f-96af-4e88-b9b6-82cd843ac02c" />
+
 
 <a href="https://www.instagram.com/ewerthon__gomes/" rel="nofollow">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/09cf85d950674fd4a93560addd0992b6463f3d67678f2201b295c57ab56389d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
