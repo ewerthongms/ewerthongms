@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi there <img width="70" height="512" alt="hello" src="https://github.com/user-attachments/assets/7deff951-c399-4ba8-803b-36401475d071" />
 
-Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.
+Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.  
+
 </br>
 
 <p>here is the place when i pass most part of my time, bring my inspirations and competencies in my codes.</p>
@@ -10,7 +11,8 @@ Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.
 </br>
 
 
-### I currently work with lenguages and programming tools such as:
+### I currently work with lenguages and programming tools such as:  <img width="15" height="300" alt="internet" src="https://github.com/user-attachments/assets/c37d0e1f-96af-4e88-b9b6-82cd843ac02c" />
+
 
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20"  alt="html-5" src="https://github.com/user-attachments/assets/bf1e0f23-4ed4-41ba-a1fa-afe020e7914a" 
 style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
