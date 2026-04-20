@@ -1,4 +1,4 @@
-## Hi there <img width="70" height="512" alt="hello" src="https://github.com/user-attachments/assets/7deff951-c399-4ba8-803b-36401475d071" />
+## Hi there <img width="50" height="50" alt="hello" src="https://github.com/user-attachments/assets/7deff951-c399-4ba8-803b-36401475d071" />
 
 Hi everyone, my name is Ewerthon Gomes, Dev Fullstack freelancer.  
 
@@ -22,7 +22,8 @@ style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
 </br>
 
 
-### My social medias, connect with my:  <img width="15" height="300" alt="internet" src="https://github.com/user-attachments/assets/c37d0e1f-96af-4e88-b9b6-82cd843ac02c" />
+### My social medias, connect with my:
+
 
 
 <a href="https://www.instagram.com/ewerthon__gomes/" rel="nofollow">
